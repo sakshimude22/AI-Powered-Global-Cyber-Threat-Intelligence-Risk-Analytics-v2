@@ -11,13 +11,11 @@ Cyber-Threat-Analytics/
 │   ├── Cleaning_Log.csv
 │   └── NVD_CVE_Raw.csv
 │
-├── 02_Data_Dictionary/
-│   ├── Data_Dictionary.xlsx
-│   └── NVD_CVE_Data_Dictionary.xlsx
-│
-├── 03_Excel_Cleaning/
-│   ├── Excel_Cleaning_Report.xlsx
-│   └── Cleaned_Data_Excel.csv
+├── 02_Cleaned_Data/
+│   ├── Global_Cybersecurity_Threats-2015-2024(cleaned data).csv
+│   
+├── 03_Data_Dictionary/
+│   ├── Global_Cybersecurity_Threats-2015-2024(Data_dictionary).csv
 │
 ├── 04_Python_Cleaning/
 │   ├── Data_Cleaning.ipynb
