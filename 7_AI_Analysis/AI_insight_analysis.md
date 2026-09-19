@@ -1,4 +1,4 @@
-# AI Prompts Used - using Github Copilot
+# AI Insights - using Github Copilot
 
 ## Threat Insights
 
